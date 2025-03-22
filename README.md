@@ -14,21 +14,12 @@ Here are some ideas to get you started:
 -->
 ## Hi there! 👋 I'm SreeLatha!
 
-Welcome to my GitHub profile! I'm passionate about technology, coding, and building amazing applications. 🚀
+Welcome to my GitHub profile! 
 
-## 🔥 About Me
+## 💬 About Me
 
-- 💻 **Profession**: Your Profession
-- 🌱 Currently learning **.NET Core MVC**
-- 🎯 Interests: Web Development, Cloud Computing, Open Source
-- 📫 How to reach me: [sreelatha.kancherla@gmail.com](mailto:sreelatha.kancherla@gmail.com)
-
-## 🚀 Tech Stack
-
-
-## 📈 GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreelatha-kancherla&show_icons=true&theme=radical)
+- 💻 **Profession**: Tech Lead @ Mercell
+- 📫 How to reach me: [sreelatha.kancherla@mercell.com](mailto:sreelatha.kancherla@mercell.com)
 
 ## 🌍 Connect with Me
 
@@ -36,5 +27,4 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and build
 
 ---
 
-⭐️ **Feel free to explore my repositories and connect with me!** 😊
 
